@@ -200,3 +200,13 @@ NLTK data packages are downloaded automatically within the notebooks on first ru
 | Topic | TF-IDF + Naive Bayes | Macro-F1 | 0.81 |
 
 Per-sentence predictions for the sentiment task across all three systems are recorded in [sentiment_predictions_comparison.csv](sentiment_predictions_comparison.csv).
+
+## Team
+
+Team project for **Text Mining for AI**, Vrije Universiteit Amsterdam.
+Team: Goktug Yildirim, Baris Kaban, Murat Gundogan, Danila Popusoi.
+
+**My contributions:** As stated in the project poster, my part was the NER Linear SVM and the topic Naive Bayes classifier (code), the entity and vocabulary error analysis, and the methodology and references sections of the poster. All four members contributed to coding, result and error analysis, and poster preparation.
+
+A copy is also published by teammate Barış Kaban at [github.com/bariskaban/Nlp-Ner-Sentiment-Topic-Analysis](https://github.com/bariskaban/Nlp-Ner-Sentiment-Topic-Analysis).
+
